@@ -213,7 +213,8 @@ main {
     .contact-info div:hover {
       padding: 0.5rem 1.5rem;
       background: #88c232;
-      color: #000; }
+      color: #000;
+      border-radius: 25px; }
       .contact-info div:hover span {
         color: #000; }
 
